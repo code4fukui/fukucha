@@ -1,5 +1,7 @@
 # fukucha
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 fukucha is a project that provides a WebGL version of a 2D game made with Unity.
 
 ## Demo
