@@ -6,7 +6,7 @@ A 2D gacha-style game built with Unity and ported to WebGL. Collect characters b
 
 ## Demo
 
-Play the live version at **[https://fukucha.github.io](https://fukucha.github.io)**.
+Play the live version at **~~https://fukucha.github.io~~ *(unavailable)* *(demo unavailable)***.
 
 
 ![fukucha game interface](https://github.com/fukucha/fukucha/assets/1/2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p)
@@ -20,7 +20,7 @@ Play the live version at **[https://fukucha.github.io](https://fukucha.github.io
 
 ## How to Play
 
-1.  Visit [https://fukucha.github.io](https://fukucha.github.io) in a desktop web browser.
+1.  Visit ~~https://fukucha.github.io~~ *(unavailable)* *(demo unavailable)* in a desktop web browser.
 2.  The game will load and start automatically.
 
 **Requirements:**
